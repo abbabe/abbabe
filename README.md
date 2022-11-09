@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayhan
-- 👀 I’m interested in Java, Android, Phyton, C# and AWS,DevOps
+- 👀 I’m interested in Kubernetes,Docker,Terraform,Jenkins Java, Android, Phyton, C# and other DevOps Tools
 - 🌱 I’m currently learning java and AWS
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me ---> dagistan18@gmail.com
