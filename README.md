@@ -1,7 +1,42 @@
-- 👋 Hi, I’m Ayhan
-- 👀 I’m interested in Kubernetes,Docker,Terraform,Jenkins Java, Android, Phyton, C# and other DevOps Tools
-- 🌱 I’m currently learning AWS/DevOps Tools
-- 💞️ I’m looking to collaborate on java projects
+# 👋 Hi, I'm AYHAN — DevOps Engineer
+
+I'm a DevOps Engineer passionate about building scalable, secure, and automated infrastructure. With hands-on experience in cloud platforms, CI/CD pipelines, container orchestration, and infrastructure as code, I help teams ship faster and operate more reliably.
+
+## 🚀 What I Do
+
+- 🔧 Automate infrastructure provisioning using **Terraform**, and **Ansible**
+- ☁️ Design and maintain cloud-native solutions on **AWS**
+- 📦 Deploy and manage containers with **Docker**, **Kubernetes**, and **Helm**
+- 🔄 Set up robust CI/CD pipelines using **GitHub Actions**,**Jenkins**, and **ArgoCD**
+- 📊 Monitor systems using **Prometheus**, **Grafana** , **CloudWatch**
+- 🔐 Implement secure practices using **Vault**, **IAM**, **KMS**
+
+## 🛠️ Tools & Technologies
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📂 Featured Projects
+
+- 🔐 **Secure EKS Infrastructure**: Production-grade Kubernetes setup with OPA, Secrets Management, and autoscaling.
+- 🛠️ **CI/CD Templates**: Reusable GitHub Actions workflows for Node.js, Python, and containerized apps.
+- 📈 **Monitoring Stack**: Prebuilt observability stack using Prometheus, Loki, Grafana, and Alertmanager.
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayhandagistan/)
+- 🧠 [Blog](medium.com/@abbabe)
+
+
+---
+
+Always learning. Always automating. Always shipping 🚀
+
+
 
 
 <!---
