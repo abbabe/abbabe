@@ -29,7 +29,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and automated 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayhandagistan/)
-- 🧠 [Blog](medium.com/@abbabe)
+- 🧠 [Blog](https://medium.com/@abbabe)
 
 
 ---
