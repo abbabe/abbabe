@@ -20,12 +20,12 @@ I enjoy designing cloud-native systems, improving developer experience, and oper
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,helm" />
 </p>
 
 ### 🔄 CI/CD & Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,jenkins,gitlab,githubactions,bash" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,gitlab,bash" />
 </p>
 
 ### 🧩 Programming & Backend
