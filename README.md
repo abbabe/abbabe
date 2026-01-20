@@ -20,7 +20,8 @@ I enjoy designing cloud-native systems, improving developer experience, and oper
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,helm,terraform,ansible,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
 ### 🔄 CI/CD & Automation
