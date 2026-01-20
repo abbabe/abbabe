@@ -7,7 +7,7 @@ I enjoy designing cloud-native systems, improving developer experience, and oper
 
 ## 🧠 What I Do
 
-- 🔧 Infrastructure as Code with **Terraform** and **Ansible**
+- 🔧 Infrastructure as Code with **Terraform**, **Terragrunt**, **Ansible**, **Packer**
 - ☁️ Cloud architecture & operations on **AWS**
 - 📦 Containerization & orchestration using **Docker**, **Kubernetes**, **Helm**
 - 🔄 CI/CD pipelines with **GitHub Actions**, **Jenkins**, **ArgoCD**
@@ -18,10 +18,30 @@ I enjoy designing cloud-native systems, improving developer experience, and oper
 
 ## 🛠️ Tools & Technologies
 
+### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,python,bash,java" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,jenkins" />
+</p>
+
+### 🔄 CI/CD & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,githubactions,bash,nodejs" />
+</p>
+
+### 🧩 Programming & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,rust" />
+</p>
+
+### 📊 Observability & Databases
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana,prometheus" />
+</p>
+
+### 🏗️ IaC Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Terragrunt-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packer-1DAEFF?style=for-the-badge&logo=packer&logoColor=white" />
 </p>
 
 ---
@@ -32,7 +52,7 @@ I enjoy designing cloud-native systems, improving developer experience, and oper
 Production-ready Kubernetes platform with autoscaling, policy enforcement, and secrets management.
 
 🛠️ **CI/CD Pipeline Templates**  
-Reusable GitHub Actions workflows for containerized and backend applications.
+Reusable Jenkins & GitHub Actions pipelines for containerized and backend applications.
 
 📈 **Observability Stack**  
 Prometheus, Grafana, Loki, and Alertmanager based monitoring & logging solution.
@@ -41,10 +61,10 @@ Prometheus, Grafana, Loki, and Alertmanager based monitoring & logging solution.
 
 ## 🌱 Interests
 
-- Cloud-native architectures
-- Platform engineering
-- Infrastructure automation
-- Reliability & security engineering
+- Cloud-native architectures  
+- Platform engineering  
+- Infrastructure automation  
+- Reliability & security engineering  
 
 ---
 
