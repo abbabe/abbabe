@@ -20,23 +20,30 @@ I enjoy designing cloud-native systems, improving developer experience, and oper
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux" />
 </p>
 
 ### 🔄 CI/CD & Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,githubactions,bash,nodejs" />
+  <img src="https://skillicons.dev/icons?i=github,jenkins,gitlab,githubactions,bash" />
 </p>
 
 ### 🧩 Programming & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,rust" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,nodejs" />
 </p>
 
-### 📊 Observability & Databases
+### 📊 Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
+
+### 📊 Monitoring & Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
 
 ### 🏗️ IaC Ecosystem
 <p align="left">
