@@ -54,7 +54,6 @@ Contact :
 
 
 
-![Abbabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbabe&show_icons=true&theme=transparent)
 
 
 
